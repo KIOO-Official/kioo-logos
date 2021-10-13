@@ -1,2 +1,1 @@
-# kioo-logos
-KIOO logos.
+# KIOO logos
