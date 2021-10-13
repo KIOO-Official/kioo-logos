@@ -1,1 +1,1 @@
-# KIOO logos
+# KIOO's logos
